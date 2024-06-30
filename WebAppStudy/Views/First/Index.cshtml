@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>this is first Index</h2>
+@model string
+<h3> ViewBage.User1= @base.ViewBag.User1 </h3>
+<h4> ViewBage.User1= @base.ViewData["User2"]</h4>
+<h5> ViewBage.User1= @base.TempData["User3"] </h5>
+<h6> ViewBage.User1= @HttpContext.Current.Session["User4"] </h6>
+<h7> model.User1= Model </h7>
+

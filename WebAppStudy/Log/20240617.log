@@ -1,0 +1,9 @@
+[2024-06-17 00:46:05,075]  7 -- INFO  -- MyFirstcWebcore.Unitity.Logger [.cctor] -- 系统初始化Log模块
+[2024-06-17 00:46:29,416]  7 -- INFO  -- WebAppStudy.Controllers.FirstController [Info] -- FirstControl--TownView--info
+[2024-06-17 00:46:29,560]  7 -- ERROR -- WebAppStudy.Controllers.FirstController [Error] -- FirstControl--TownView--error
+[2024-06-17 00:46:29,730]  7 -- DEBUG -- WebAppStudy.Controllers.FirstController [Debug] -- FirstControl--TownView--debug
+[2024-06-17 00:46:29,864]  7 -- WARN  -- WebAppStudy.Controllers.FirstController [Warn] -- FirstControl--TownView--warn
+[2024-06-17 00:55:19,684]  6 -- INFO  -- WebAppStudy.Controllers.FirstController [Info] -- FirstControl--TownView--info
+[2024-06-17 00:55:19,684]  6 -- ERROR -- WebAppStudy.Controllers.FirstController [Error] -- FirstControl--TownView--error
+[2024-06-17 00:55:19,686]  6 -- DEBUG -- WebAppStudy.Controllers.FirstController [Debug] -- FirstControl--TownView--debug
+[2024-06-17 00:55:19,686]  6 -- WARN  -- WebAppStudy.Controllers.FirstController [Warn] -- FirstControl--TownView--warn
